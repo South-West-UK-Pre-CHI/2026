@@ -4,7 +4,7 @@ speakers:
   - Cicely Mathews
   - Kenton O'Hara
   - Jamie Duckers
-  - Aisling Ann O'Kane
+  - Aisling Ann O’Kane
 
 categories:
   - Accessibility and Health

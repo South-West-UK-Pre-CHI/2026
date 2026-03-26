@@ -1,10 +1,10 @@
 ---
 name: Demos
 speakers:
-  - Nathalie Alexandra “Alex” Tcherdakoff
-  - Katarzyna Stawarz
   - Paul Goddard
   - Mike Richardson
+  - Katarzyna Stawarz
+  - Nathalie Alexandra “Alex” Tcherdakoff
 categories:
   - Demos/Posters
 ---

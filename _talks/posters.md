@@ -1,23 +1,23 @@
 ---
 name: Poster Session
 speakers:
-  - Brooke Morris
-  - Grace Jane Stangroome
-  - Ollie Hanton
-  - Adwait Sharma
-  - Rory Clark
-  - Yoshiaki Shiokawa
   - Diar Abdlkarim
   - Migisha Boyd
-  - Rachel Hill
-  - Ben Wilson
-  - Pakkapol Lailert
+  - Rory Clark
   - Alex Gougoulaki
-  - Siyu Zhang
-  - Min Zhou
+  - Ollie Hanton
+  - Rachel Hill
   - Farzad Jahanfard
+  - Pakkapol Lailert
+  - Brooke Morris
+  - Adwait Sharma
+  - Yoshiaki Shiokawa
+  - Grace Jane Stangroome
   - Nathalie Alexandra “Alex” Tcherdakoff
   - Ellen Weir
+  - Ben Wilson
+  - Siyu Zhang
+  - Min Zhou
 categories:
   - Demos/Posters
 ---

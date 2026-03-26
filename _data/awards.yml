@@ -1,0 +1,24 @@
+- name: "Best Talk"
+  winner: "TBA"
+  talk_url: TBA
+  talk_title: "TBA"
+
+- name: "Best Powerpoint"
+  winner: "TBA"
+  talk_url: TBA
+  talk_title: "TBA"
+
+- name: "Best Poster"
+  winner: "TBA"
+  talk_url: TBA
+  talk_title: "TBA"
+
+- name: "Best Demo"
+  winner: "TBA"
+  talk_url: TBA
+  talk_title: "TBA"
+
+- name: "Most Helpful SV"
+  winner: "TBA"
+  talk_url: TBA
+  talk_title: "TBA"

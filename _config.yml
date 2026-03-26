@@ -103,14 +103,12 @@ conference:
     logo:
       img: "logo.png" # inside /assets/images/
     links:
-      - name: Register
-        disabled: true
       - name: Programme
         relative_url: /programme/
       - name: How to get there
         relative_url: /location/
       - name: Voting
-        disabled: true
+        absolute_url: https://forms.cloud.microsoft/e/6htw0wFQnU
       - name: Pirate the talks
         absolute_url: https://south-west-uk-pre-chi.github.io/1726/
 

@@ -3,7 +3,7 @@ name: "Uncertainty And Risk At The Point Of Care: Implications Of Patient-Genera
 speakers:
   - Rachel Keys
   - Paul Marshall
-  - Aisling Ann O’Kane
+  - Aisling Ann O'Kane
   - Graham Stuart
 categories:
   - Accessibility and Health

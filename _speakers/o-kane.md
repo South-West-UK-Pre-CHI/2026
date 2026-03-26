@@ -1,7 +1,7 @@
 ---
-name: Aisling Ann O’Kane
+name: Aisling Ann O'Kane
 first_name: Aisling Ann
-last_name: O’Kane
+last_name: O'Kane
 links:
   - name: BIG Profile
     absolute_url: https://biglab.co.uk/member/aisling-okane/

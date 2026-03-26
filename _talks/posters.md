@@ -2,7 +2,7 @@
 name: Poster Session
 speakers:
   - Brooke Morris
-  - Grace Stangroome
+  - Grace Jane Stangroome
   - Ollie Hanton
   - Adwait Sharma
   - Rory Clark

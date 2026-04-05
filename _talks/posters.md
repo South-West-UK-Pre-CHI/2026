@@ -21,6 +21,7 @@ speakers:
 categories:
   - Demos/Posters
 ---
+
 Co-Design with Neurodiverse Groups of Children Through 'Collective Protagonism' - [Brooke Morris]({{ site.baseurl }}/speakers/morris)
 
 Who Owns the Worm? Authorship Collapse in Viral Digital Models - [Grace Stangroome]({{ site.baseurl }}/speakers/stangroome)

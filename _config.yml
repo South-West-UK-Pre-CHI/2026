@@ -112,7 +112,7 @@ conference:
       - name: How to get there
         relative_url: /location/
       - name: Awards
-        absolute_url: /awards/
+        relative_url: /awards/
       - name: Pirate the talks
         absolute_url: https://south-west-uk-pre-chi.github.io/1726/
 
